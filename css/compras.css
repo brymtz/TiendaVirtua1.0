@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio|Montserrat:700');
+@import url(http://fonts.googleapis.com/css?family=Cabin:400);
+
+header{
+    position:relative;
+	margin:auto;
+	height: auto;
+	weight: auto;
+    text-align:center;
+    padding:5px;
+    font-size: 25;
+    background:white;
+   
+}
+
+body{
+    text-align: center;
+
+}
+
+nav{
+    position:relative;
+    margin:auto;
+    width:auto;
+    height:auto;
+    background: black;
+}
+nav ul{
+    position:relative;
+    margin:auto;
+    width:50%;
+    text-align:center;
+   
+}
+nav ul li{
+    display:inline-block;
+    width:24%;
+    line-height:30px;
+    list-style:none;
+}
+nav ul li a{
+    color:white;
+    text-decoration:none;
+}
